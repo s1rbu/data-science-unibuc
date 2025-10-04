@@ -1,0 +1,5 @@
+name: practical-machine-learning
+dependencies:
+  - python=3.13
+  - notebook
+  - matplotlib
