@@ -1,0 +1,7 @@
+name: anomaly-detection
+dependencies:
+  - python=3.13
+  - pyod
+  - numpy
+  - matplotlib
+  - scikit-learn
